@@ -3,7 +3,9 @@
 <p align="center">
  <img width="460" height="300" src="https://user-images.githubusercontent.com/118356592/202759584-4bc32236-2427-4b6b-8097-7ee5281688ea.JPG"></p>
 
-#### <h1 align="center">O Repositóro comportará algumas Operações de Nota Fiscal Eletrônica e suas respectivas Leis.</h1>
+##### 
+
+<h5 align="justify">O Repositóro comportará algumas Operações de Nota Fiscal Eletrônica e suas respectivas Leis.</h5>
 
 ##### Existe um equívoco por uma parte dos Profissionais que trabalham com a Emissão de Nota Fiscal Eletrônica, que é, não precisar conhecer a Legislação Tributária.
 
@@ -12,3 +14,7 @@
 ##### Diante do exposto acima, quero compartilhar no Repositório meu conhecimento sobre emissão de Nota Fiscal Eletrônica (NF-e) com base na Legislação Tributária de São Paulo.
 
 ##### Espero que o que aqui for incluído seja de grande valia para aqueles que não tem acesso a uma Consultoria Tributária ou dificuldade em buscar resposta para as suas dúvidas.
+
+</h5>
+
+
