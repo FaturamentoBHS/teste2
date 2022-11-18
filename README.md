@@ -1,4 +1,5 @@
 # <h1 align="center">Nota Fiscal Eltrônica (NF-e)</h1>
+
 <p align="center">
 ![NFe](https://user-images.githubusercontent.com/118356592/202759584-4bc32236-2427-4b6b-8097-7ee5281688ea.JPG)</p>
 
@@ -11,9 +12,3 @@
 ##### Diante do exposto acima, quero compartilhar no Repositório meu conhecimento sobre emissão de Nota Fiscal Eletrônica (NF-e) com base na Legislação Tributária de São Paulo.
 
 ##### Espero que o que aqui for incluído seja de grande valia para aqueles que não tem acesso a uma Consultoria Tributária ou dificuldade em buscar resposta para as suas dúvidas.
-
-
-
-
-
-
