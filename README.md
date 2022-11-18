@@ -1,4 +1,6 @@
-# Nota Fiscal Eltrônica (NF-e)<img src="file:///C:/Users/FaturamentoBHS/Downloads/NFe.JPG" title="" alt="" data-align="center">
+# Nota Fiscal Eltrônica (NF-e)
+
+
 
 ## Operações e Legislação que acoberta.
 
