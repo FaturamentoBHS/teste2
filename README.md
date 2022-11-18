@@ -1,5 +1,6 @@
 # Nota Fiscal Eltrônica (NF-e)
 
+![Logo da Nota Fiscal Eletrônica] https://github.com/FaturamentoBHS/teste2/blob/master/Imagens/NFe.JPG
 
 #### O Repositóro comportará algumas Operações de Nota Fiscal Eletrônica e suas respectivas Leis.
 
