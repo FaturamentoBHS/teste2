@@ -1,6 +1,5 @@
 # Nota Fiscal Eltrônica (NF-e)
 
-## Operações e Legislação que acoberta.
 
 #### O Repositóro comportará algumas Operações de Nota Fiscal Eletrônica e suas respectivas Leis.
 
